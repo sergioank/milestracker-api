@@ -1,0 +1,104 @@
+﻿# ASP.NET
+
+## Visual Studio files
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.libs
+*.sbr
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+[Vv][Ss]/[Ll]ocal/[Dd]esigner.db
+[Rr]elease
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.opendb
+*.opendb.meta
+
+## NuGet
+*.nuget/
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/repositories.config
+*_SolutionPackages/
+*.cache
+*.CSharp.suo
+*.DotNet.suo
+*.FSharp.suo
+
+## MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.[Pp]ublish.xml
+
+## NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+## Installshield output folder
+[Ee]xpress/
+
+## DocProject documentation
+[Dd]oc[Ss]tudio/
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+## Click-Once
+publish/
+*.publish.xml
+*.[Pp]ublish
+
+## Publish Web Output
+*.Publish.xml
+*.pubxml
+*.pubxml.*
+*.publishproj
+
